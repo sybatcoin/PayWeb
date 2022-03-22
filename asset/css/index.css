@@ -31,3 +31,17 @@ body {
     top: 156px;
     left: 40%;
 }
+input[type="text"] {
+    background-color: #2d2d2d;
+    background-blend-mode: normal;
+    width: 303px;
+    height: 48px;
+    border-radius: 10px;
+    color: #ffffff;
+    padding-left: 15px;
+}
+.login-form {
+    position: relative;
+    margin-left: 20%;
+    top: 200px;
+}
