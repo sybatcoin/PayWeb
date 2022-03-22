@@ -87,6 +87,7 @@ input[type="submit"] {
     top: 79px;
     width: 100%;
     text-align: center;
+    margin-left: 50px;
 }
 #balance {
     width: 148px;
