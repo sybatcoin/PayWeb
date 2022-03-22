@@ -87,7 +87,6 @@ input[type="submit"] {
     top: 79px;
     width: 100%;
     text-align: center;
-    margin-left: 50px;
 }
 #balance {
     width: 148px;
@@ -95,4 +94,25 @@ input[type="submit"] {
     color: #ffffff;
     font-size: 36px;
     font-weight: 700;
+}
+.action-btn {
+    position: relative;
+    text-align: center;
+    top: 127px;
+}
+.action-btn a {
+    text-decoration: none;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(71, 71, 71, 1);
+    padding: 10px;
+    border-radius: 90px;
+    text-align: center;
+    mix-blend-mode: normal;
+    margin: 5px;
+    padding-top: 20px;
+}
+.action-btn a img {
+    position: relative;
+    top: 5px;
 }
