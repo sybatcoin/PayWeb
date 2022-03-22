@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+* {
+    font-family: 'Kanit', sans-serif;
+}
+body {
+    background-color: #F9F6FF;
+}
+.wallet {
+    position: absolute;
+    font-weight: 700;
+    left: 40%;
+    top: 396px;
+    width: 92px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
