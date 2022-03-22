@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400&display=swap');
 
 * {
     font-family: 'Kanit', sans-serif;
@@ -10,11 +10,10 @@ body {
     position: absolute;
     font-weight: 700;
     left: 40%;
-    top: 396px;
+    top: 47%;
     width: 92px;
     height: 24px;
     font-size: 16px;
-    font-weight: 400;
     line-height: 24px;
     text-align: center;
 }
