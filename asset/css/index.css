@@ -22,9 +22,11 @@ body {
 }
 #page-title {
     font-size: 36px;
+    color: rgba(0, 0, 0, 1);
 }
 #sub-page-title {
     font-size: 16px;
+    color: rgba(0, 0, 0, 1);
 }
 #page-title, #sub-page-title {
     position: relative;
