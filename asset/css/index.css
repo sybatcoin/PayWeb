@@ -82,3 +82,16 @@ input[type="submit"] {
     margin-right: 20px;
     margin-top: 20px;
 }
+.balance {
+    position: relative;
+    top: 79px;
+    width: 100%;
+    text-align: center;
+}
+#balance {
+    width: 148px;
+    height: 54px;
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 700;
+}
