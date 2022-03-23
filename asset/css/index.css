@@ -123,14 +123,19 @@ input[type="submit"] {
     height: 71px;
     background-color: #2d2d2d;
     width: 100%;
+    display: flex;
+    text-align: center;
 }
 #send-tnx {
     color: rgba(255, 56, 56, 1);
 }
 .tnx {
     position: absolute;
-    width: 100%;
     top: 266;
+    width: 98%;
+}
+.list-tnx {
+    position: relative;
 }
 .body-tnx {
     position: relative;
@@ -142,5 +147,45 @@ table {
     background-color: #2d2d2d;
     width: 100%;
     margin-left: 10px;
+    margin-top: 15px;
     margin-right: 10px;
+    border-radius: 10px;
+    background-color: rgba(249, 246, 255, 1);
+    box-shadow:  0px 2px 4px 0px rgba(100, 100, 100, 0.498)
+}
+.first {
+    float: left;
+    padding-top: 10px;
+}
+.last {
+    float: right;
+    text-align: right;
+}
+.first, .last {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#recieve-tnx {
+    color: rgba(3, 136, 3, 1);
+}
+.active1 {
+    position: relative;
+    width: 13px;
+    height: 3px;
+    border-radius: 33px;
+    background: #db00f3;
+    background-blend-mode: normal;
+    margin-left: 8px;
+    left: 46%;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
+ul {
+    align-items: center;
+}
+.icon1, .icon2, .icon3 {
+    position: relative;
+    width: 33.3%;
 }
