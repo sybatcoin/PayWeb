@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="33.480835px" height="33.480835px" viewBox="0 0 33.480835 33.480835" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L33.4808 0L33.4808 33.4808L0 33.4808L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Gmail-icon">
+    <path d="M0 0L33.4808 0L33.4808 33.4808L0 33.4808L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M27.9006 26.5056L5.58008 26.5056L5.58008 9.7652L16.7404 16.7404L27.9006 9.7652L27.9006 26.5056Z" id="Shape" fill="#FFFFFF" fill-opacity="0.3" stroke="none" />
+      <path d="M27.9007 5.58008L5.58011 5.58008C4.03859 5.58008 2.79004 6.82863 2.79004 8.37015L2.79004 25.1106C2.79004 26.6521 4.03859 27.9006 5.58011 27.9006L27.9007 27.9006C29.4422 27.9006 30.6907 26.6521 30.6907 25.1106L30.6907 8.37015C30.6907 6.82863 29.4422 5.58008 27.9007 5.58008L27.9007 5.58008ZM26.5056 25.1106L6.9751 25.1106L6.9751 8.37018L26.5056 8.37018L26.5056 25.1106L26.5056 25.1106Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M4.18506 10.2897L16.7404 18.1354L29.2957 10.2897L29.2957 6.10461L16.7404 13.9503L4.18506 6.10461L4.18506 10.2897Z" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>
