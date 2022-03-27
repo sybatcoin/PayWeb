@@ -214,3 +214,14 @@ ul {
     position: relative;
     font-size: 24px;
 }
+#wallet-copy {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.scan {
+    background-color: #2d2d2d;
+    padding: 20px;
+    border-radius: 20px;
+    width: 250px;
+    margin-top: 50px;
+}
