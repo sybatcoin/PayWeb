@@ -224,5 +224,9 @@ ul {
     border-radius: 20px;
     width: 250px;
     margin-top: 50px;
-    margin-bottom: 80px;
+}
+.space {
+    position: relative;
+    height: 80px;
+    margin-top: 320px;
 }
