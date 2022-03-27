@@ -189,3 +189,28 @@ ul {
     position: relative;
     width: 33.3%;
 }
+.title  {
+    position: absolute;
+    width: 98%;
+    text-align: center;
+    background-blend-mode: normal;
+    top: 100px;
+}
+.send-page-img {
+    position: relative;
+    background: #2d2d2d;
+    width: 70px;
+    height: 70px;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    left: 45%;
+    border-radius: 90px;
+}
+.send-page-img img {
+    padding-top: 20px;
+}
+.send-page-title {
+    position: relative;
+    font-size: 24px;
+}
